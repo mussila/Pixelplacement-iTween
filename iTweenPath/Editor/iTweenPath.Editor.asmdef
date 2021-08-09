@@ -1,0 +1,17 @@
+{
+    "name": "iTweenPath.Editor",
+    "references": [
+        "GUID:169ccea6f6f734f49a6fe4097e0a123a"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,15 @@
+{
+  "name": "com.mussila.foriero",
+  "version": "2.0.8",
+  "displayName": "Mussila - iTween",
+  "description": "Mussila - iTween",
+  "unity": "2019.1",
+  "author": {
+    "name": "Mussila",
+    "email": "snorri@mussila.com",
+    "url": "https://github.com/mussila/Pixelplacement-iTween"
+  },
+  "dependencies": {
+    "com.google.external-dependency-manager": "1.2.162"
+  }
+}

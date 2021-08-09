@@ -1,0 +1,15 @@
+{
+    "name": "iTweenPath",
+    "references": [
+        "GUID:61c8bfa1763c94abdafe4de604d3cdd5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
